@@ -1,0 +1,7 @@
+class Employ{
+
+    String? name;
+    int? id;
+
+
+}
