@@ -5,9 +5,4 @@ class Coder {
   }
 }
 
-void main() {
-  Coder c = Coder();
-
-  Coder.lang = 'C++';
-  Coder c1 = Coder();
-}
+void main() {}
